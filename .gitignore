@@ -1,0 +1,11 @@
+*.vscode 
+*.ipynb
+*.ipynb_checkpoints
+*.DS_Store 
+utils/__pycache__/
+__pycache__/
+backup.py 
+data/ 
+results/
+tables/
+figures/
